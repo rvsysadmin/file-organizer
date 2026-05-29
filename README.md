@@ -1,10 +1,22 @@
-# 🐍 Python File Organizer
+# 🐍 File Organizer (Python Automation Tool)
 
-Automatically organizes files into folders based on type.
+A simple Python script that automatically organizes files into folders based on their type.
 
-## Features
+## 🚀 Features
 - Images sorting
-- PDF sorting
-- Video sorting
+- PDFs sorting
+- Videos sorting
 - Audio sorting
-- Document sorting
+- Documents sorting
+
+## 🛠 Tech Stack
+- Python 3
+- os module
+- shutil module
+
+## 📂 How to Run
+
+python3 organizer.py
+
+## 💡 Purpose
+This project helps automate file organization using Python.
